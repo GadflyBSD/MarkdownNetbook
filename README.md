@@ -1,2 +1,5 @@
-# MarkdownNetbook
-我的Markdown笔记本
+# 我的Markdown笔记本
+* # 个人生活笔记
+
+  * [找回我那丢了的12分](./个人生活笔记/找回我那丢了的12分.md)
+
