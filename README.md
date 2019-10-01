@@ -5,7 +5,7 @@
   
 * # Markdown 语法说明
 
-  * [Markdown中数学公式整理](./Markdown 语法说明/Markdown中数学公式整理.md)
-  * [MarkDown 所支持的高亮语言列表](./Markdown 语法说明/MarkDown 所支持的高亮语言列表.md)
-  * [Markdown基本语法](./Markdown 语法说明/Markdown基本语法.md)
+  * [Markdown中数学公式整理](./Markdown语法说明/Markdown中数学公式整理.md)
+  * [MarkDown 所支持的高亮语言列表](./Markdown语法说明/MarkDown 所支持的高亮语言列表.md)
+  * [Markdown基本语法](./Markdown语法说明/Markdown基本语法.md)
 
